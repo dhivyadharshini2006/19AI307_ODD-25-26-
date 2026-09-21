@@ -30,8 +30,8 @@ To write a Java program to serialize a collection of objects (ArrayList of Stude
  ```
 /*
 Program to implement a Serialization and Deserialization using Java
-Developed by: Swaminathan.V
-RegisterNumber: 212223110057
+Name:Dhivya Dharshini B
+Reg:212223240031
 */
 ```
 
