@@ -28,8 +28,8 @@ To implement the Factory Design Pattern in Java to create and draw different sha
  ```
 /*
 Program to implement a Abstract Factory Pattern using Java
-Developed by: Swaminathan.V
-RegisterNumber: 212223110057
+Name:Dhivya Dharshini B
+Reg:212223240031
 */
 ```
 
