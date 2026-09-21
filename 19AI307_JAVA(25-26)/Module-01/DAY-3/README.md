@@ -25,8 +25,8 @@ To write a java program to calculate and display the factorial of the given numb
 ## PROGRAM:
  ```
 Program to implement a Looping Statement using Java
-Developed by: Swaminathan.V
-Register Number:  212223110057
+Developed by: Dhivya Dharshini B
+Register Number:  212223240031
 ```
 
 ## SOURCE CODE:
