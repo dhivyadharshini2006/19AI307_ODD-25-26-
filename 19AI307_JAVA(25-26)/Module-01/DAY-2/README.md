@@ -25,8 +25,8 @@ To write a Java program that accepts a code number and determines the security l
 ## PROGRAM:
  ```
 Program to implement a conditional statement using Java
-Developed by: Swaminathan.V
-Register Number:  212223110057
+Developed by: Dhivya Dharshini B
+Register Number:  212223240031
 ```
 
 ## SOURCE CODE:
