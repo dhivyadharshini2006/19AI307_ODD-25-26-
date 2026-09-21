@@ -32,8 +32,8 @@ To implement the Observer Design Pattern in Java to automatically notify multipl
  ```
 /*
 Program to implement a Behaviour Pattern using Java
-Developed by: Swaminathan.V
-RegisterNumber: 212223110057
+Name:Dhivya Dharshini B
+Reg:212223240031
 */
 ```
 
