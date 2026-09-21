@@ -26,8 +26,8 @@ To implement the Singleton design pattern in Java to ensure only a single instan
  ```
 /*
 Program to implement a SOLID Principles in Java Program
-Developed by: Swaminathan.V
-RegisterNumber: 212223110057
+Name:Dhivya Dharshini B
+Reg:212223240031
 */
 ```
 
