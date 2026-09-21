@@ -40,8 +40,8 @@ To write a Java program that reads two integer numbers from the user and perform
 ## PROGRAM:
  ```
 Program to implement variables and Operators using Java
-Developed by: Swaminathan.V
-RegisterNumber: 212223110057
+Developed by:Dhivya Dharshini B
+RegisterNumber: 212223240031
 ```
 
 ## Sourcecode.java:
